@@ -1,0 +1,28 @@
+{
+  "name": "ng-zingchart",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janatbek/ng-zingchart.git"
+  },
+  "author": {
+    "name": "Janatbek Sharsheyev",
+    "email": "janatbek@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Janatbek/ng-zingchart.git/issues"
+  },
+  "main": "ng-zingchart.umd.js",
+  "module": "ng-zingchart.js",
+  "jsnext:main": "ng-zingchart.js",
+  "typings": "ng-zingchart.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
